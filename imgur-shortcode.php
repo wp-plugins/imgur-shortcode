@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Imgur Shortcode
-Version: 1.001
+Version: 2.0
 Plugin URI: http://fitbobcat.com/imgurshortcode
 Description: ImgurShortcode Makes it easy to embed an image in to your blog post or page. 
 Author: Johnathan Martin

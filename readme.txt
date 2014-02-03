@@ -4,7 +4,7 @@ Tags:imgur, image, embed, shortcode
 Donate link: http://www.fitbobcat.com/about
 Requires at least: 1.4
 Tested up to:3.5
-Version:1.001
+Version:2.0
 Stable tag:trunk
 License:GPLv2 or later
 License URI:http://www.gnu.org/licenses/gpl-2.0.html
@@ -40,10 +40,11 @@ This plugin is free for everyone! Since it's released under the GPL, you can use
 
 * Stable 1.0 first release
 
-= 1.001 =
+= 2.0  =
 
 * Fixed typos
-
+* Fixed Small Bug
+* Added donation link
 
 == Upgrade Notice ==
 
@@ -51,9 +52,11 @@ This plugin is free for everyone! Since it's released under the GPL, you can use
 
 * First Release
 
-= 1.001 ==
+= 2.0  ==
 
 * Typos
+* Bug Fixes
+
 == Frequently Asked Questions ==
 1. How can I donate?
 	You can donate via paypal to johnathan<@>fitbobcat.com or donate in bitcons to 1M9hdsLpfYf9BXMPJkB3AbRLN6tBNbeCvQ
