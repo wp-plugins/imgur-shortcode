@@ -4,19 +4,13 @@ Tags:imgur, image, embed, shortcode
 Donate link: http://www.fitbobcat.com/about
 Requires at least: 1.4
 Tested up to:3.5
-Version:1.0
+Version:1.001
 Stable tag:trunk
 License:GPLv2 or later
 License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 Embed an imgur image in to any post or page with easy using shortcodes. All you need is the ID form the image. 
-
-=Features=
-
-1. Embed Imgur Images in to Posts
-2. Embed Imgur images in to pages
-
 
 
 [Get Support](http://fitbobcat.com) 
@@ -46,6 +40,10 @@ This plugin is free for everyone! Since it's released under the GPL, you can use
 
 * Stable 1.0 first release
 
+= 1.001 =
+
+* Fixed typos
+
 
 == Upgrade Notice ==
 
@@ -53,7 +51,9 @@ This plugin is free for everyone! Since it's released under the GPL, you can use
 
 * First Release
 
- 
+= 1.001 ==
+
+* Typos
 == Frequently Asked Questions ==
 1. How can I donate?
 	You can donate via paypal to johnathan<@>fitbobcat.com or donate in bitcons to 1M9hdsLpfYf9BXMPJkB3AbRLN6tBNbeCvQ
