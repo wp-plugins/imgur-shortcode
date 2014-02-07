@@ -4,10 +4,11 @@ Tags:imgur, image, embed, shortcode
 Donate link: http://www.fitbobcat.com/about
 Requires at least: 1.4
 Tested up to:3.5
-Version:2.0
+Version:2.1
 Stable tag:trunk
 License:GPLv2 or later
 License URI:http://www.gnu.org/licenses/gpl-2.0.html
+
 
 == Description ==
 Embed an imgur image in to any post or page with easy using shortcodes. All you need is the ID form the image. 
@@ -28,7 +29,7 @@ This plugin is easy to install like other plug-ins of Wordpress as you need to j
 
 ### Usage ###
 1. Get url id from imgur photo. (if the link is http://imgur.com/FYGIRkb, then the id is FYGIRkb.gif or .jpg
-2. Copy and paste "[imgur id="FYGIRkb.jpg" /] in to your blog post or page
+2. Copy and paste "[imgur id=FYGIRkb.jpg /] in to your blog post or page
 3. Save!
 == License ==
 
@@ -46,21 +47,30 @@ This plugin is free for everyone! Since it's released under the GPL, you can use
 * Fixed Small Bug
 * Added donation link
 
+= 2.1 =
+*Added optional Width and Height. Example: [imgur id= "QAj4HIS.jpg" height="120" width="170"]
+
 == Upgrade Notice ==
 
 = 1.0 =
 
 * First Release
 
-= 2.0  ==
+= 2.0  =
 
 * Typos
 * Bug Fixes
+
+= 2.1 =
+
+* Added Height and Width Shortcode
 
 == Frequently Asked Questions ==
 1. How can I donate?
 	You can donate via paypal to johnathan<@>fitbobcat.com or donate in bitcons to 1M9hdsLpfYf9BXMPJkB3AbRLN6tBNbeCvQ
 
 == Screenshots ==
-http://img.ctrlv.in/img/52ebe2fb78855.jpg
-http://img.ctrlv.in/img/52ebe31d80dab.jpg
+http://i.imgur.com/QAj4HIS.jpg
+
+
+
