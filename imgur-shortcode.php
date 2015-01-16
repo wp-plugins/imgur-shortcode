@@ -6,7 +6,7 @@ Version: 2.1
 Plugin URI: http://fitbobcat.com/imgurshortcode
 Description: Imgur Shortcode Makes it easy to embed an image in to your blog post or page. 
 Author: Johnathan Martin
-Author URI: http://fitbobcat.com
+Author URI: http://johnathanmartin.com
 */
 
 function imgur_img_shortcode($atts) {
