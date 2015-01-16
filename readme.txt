@@ -1,10 +1,10 @@
 === Imgur ShortCode ===
 Contributors: Johnathan Martin
 Tags:imgur, image, embed, shortcode
-Donate link: http://www.fitbobcat.com/about
+Donate link: http://www.Johnathanmartin.com
 Requires at least: 1.4
-Tested up to:3.5
-Version:2.1
+Tested up to:4.1
+Version:2.2
 Stable tag:trunk
 License:GPLv2 or later
 License URI:http://www.gnu.org/licenses/gpl-2.0.html
@@ -50,6 +50,10 @@ This plugin is free for everyone! Since it's released under the GPL, you can use
 = 2.1 =
 *Added optional Width and Height. Example: [imgur id= "QAj4HIS.jpg" height="120" width="170"]
 
+= 2.2 =
+
+* Fixed Broken Links
+
 == Upgrade Notice ==
 
 = 1.0 =
@@ -65,9 +69,13 @@ This plugin is free for everyone! Since it's released under the GPL, you can use
 
 * Added Height and Width Shortcode
 
+= 2.2 =
+
+* Fixed Broken links and updated information
+
 == Frequently Asked Questions ==
 1. How can I donate?
-	You can donate via paypal to johnathan<@>fitbobcat.com or donate in bitcons to 1M9hdsLpfYf9BXMPJkB3AbRLN6tBNbeCvQ
+	You can donate via paypal to admin<@>fitbobcat.com or donate in bitcons to 1CKYasGZ4gJ3Y9g9h1MY6VhkoUGDvRNZgdF 
 
 == Screenshots ==
 http://i.imgur.com/QAj4HIS.jpg
